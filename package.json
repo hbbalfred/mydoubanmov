@@ -1,0 +1,12 @@
+{
+  "name": "douban-movie",
+  "version": "1.0.0",
+  "description": "crawl my movie in douban.com",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "hbb",
+  "dependencies": {
+    "mongodb": "^3.0.2"
+  }
+}
